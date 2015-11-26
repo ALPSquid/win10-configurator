@@ -21,8 +21,8 @@ Mandatory Disclaimer: This software is provided without guarantee or warranty an
 1. Download the zip and extract everything to a directory of your choice
 2. Run "windows10_configurator.bat" and click "Yes" on the Run as Admin prompt that opens. It needs this to edit the registry and disable services.
 3. Follow the instructions in the window that opens. 
-- You can skip any setting by replying "N" when it prompts you
-- Some settings have different configurations options with the recommended one marked with "[Recommended]"
+ - You can skip any setting by replying "N" when it prompts you
+ - Some settings have different configurations options with the recommended one marked with "[Recommended]"
 4. After the automatic stage, the Configurator will guide you through some settings you need to disable in the default Settings app (as I was unable to figure out how to automate them).
 
 	
