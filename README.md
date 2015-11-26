@@ -27,34 +27,34 @@ Mandatory Disclaimer: This software is provided without guarantee or warranty an
 
 	
 ### Things it Changes Automatically
-1. Delivery Optimisation
+1. Delivery Optimisation  
 	Lets Windows share app and update files over the internet and LAN in a peer-to-peer fashion. This is a possible security risk, however you may like to set it to LAN only for faster updates on multiple PCs.
-2. Auto Update
+2. Auto Update  
 	Allows you to change how updates are downloaded and whether they are automatically installed. By default they are installed automatically
-3. Data Collection
+3. Data Collection  
 	Windows collects a lot of data about how you use the computer, including things you type, which is uploaded to their servers.
-4. OneDrive
+4. OneDrive  
 	OneDrive (formerly SkyDrive) is Microsoft's cloud sync client which is enabled by default and is plastered everywhere. This setting will disable it. Obviously if you use OneDrive, skip this setting.
-5. Application & Customer Experience Logging
+5. Application & Customer Experience Logging  
 	Windows has several tasks that perform the gathering and uploading of app usage data.
-6. Hosts File Entries
+6. Hosts File Entries  
 	As an extra precaution, you can prevent Windows from being able to access Microsoft tracking servers. This will redirect all requests to these servers to an invalid IP (0.0.0.0) by editing your hosts file. (with these http://pastey.org/view/658d98bc)
-7. Metro Apps
+7. Metro Apps  
 	Windows comes with a lot of mandatory Metro (tablet) apps which you may not want. You can uninstall them all with this setting. WARNING: there is no easy way of getting these apps back!
 
 	
 ### Things it Guides You Through
-1. WiFi Sense
+1. WiFi Sense  
 	Windows wants to try and share your WiFi passwords with your contacts, and Facebook and Skype friends. This is a potential security risk.
-2. Sync Settings
+2. Sync Settings  
 	When using a Microsoft account, Windows uploads arguably more data than you actually need to sync with your devices. To fix this, you can either use a Local Account (disabling sync completely), or turn off settings you don't need.
-3. Privacy & Feedback
+3. Privacy & Feedback  
 	Apps have access to a lot of data by default, most of which is unnecessary. Also, another Telemetry precaution is to change when and what feedback is sent. Note that Windows should be unable to send feedback at all if you used all of the automatic settings.
-4. Ad Tracking
+4. Ad Tracking  
 	Each Windows 10 computer has a unique advertising ID which can be used to track the user and provide targeted ads.
-5. Cortana
+5. Cortana  
 	If you don't have a burning reason to use Cortana, it's recommended to disable it as Microsoft store everything you say and type to it.	
-6. CCleaner Config
+6. CCleaner Config  
 	If you use CCleaner and Windows Defender you need to disable the cleaning of Defender files otherwise Windows won't be able to update Defender's malware definitions	
 	
 	
