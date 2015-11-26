@@ -1,8 +1,3 @@
-::-----------------------------------------------
-::           Windows 10 Configurator v0.2
-::               By Andy Palmer 
-:: http://squidtopusstudios.com @AndyPandyPalmer
-::-----------------------------------------------
 @echo off
 setlocal EnableDelayedExpansion
 :: ### Variables ###
